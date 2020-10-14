@@ -5,9 +5,9 @@ import android.location.Location
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.mahmouddev.fusedlocation_example.geolocation.GPS_REQUEST_CODE
-import com.mahmouddev.fusedlocation_example.geolocation.LocationHelper
-import com.mahmouddev.fusedlocation_example.geolocation.LocationManager
+import com.mahmouddev.fusedlocation_example.fusedlocation.GPS_REQUEST_CODE
+import com.mahmouddev.fusedlocation_example.fusedlocation.LocationHelper
+import com.mahmouddev.fusedlocation_example.fusedlocation.LocationManager
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

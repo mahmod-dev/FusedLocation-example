@@ -1,4 +1,4 @@
-package com.mahmouddev.fusedlocation_example.geolocation
+package com.mahmouddev.fusedlocation_example.fusedlocation
 
 
 import android.location.Location
